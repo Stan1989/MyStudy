@@ -1,0 +1,13 @@
+OEM( Original Equipment Manufacturer )是受托厂商按来样厂商之需求与授权，按照厂家特定的条件而生产。
+所有的设计图等都完全依照来样厂商的设计来进行制造加工。
+
+OEM（Original Equipment Manufacturer）即原始设备制造商，
+ODM（Original Design Manufacturer）即原始设计制造商，
+OBM（Original Brand Manufacturer）即原始品牌制造商。
+
+ODM（Original Design Manufacturer）的厂商设计方案供应方式：
+1.买断方式：品牌拥有方买断ODM厂商现成的某型号产品的设计，
+或品牌拥有方单独要求ODM厂商为自己设计产品方案。
+2.不买断方式：品牌拥有方不买断ODM厂商某型号产品的设计，
+ODM厂商可将同型号产品的设计采取不买断的方式同时卖给其它品牌。
+当这两个或多个品牌共享一个设计时，两个品牌产品的区别主要在于外观。

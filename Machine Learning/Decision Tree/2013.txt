@@ -1,0 +1,40 @@
+/*
+//some book to read:
+*/
+1.Hackers: Heroes of the Computer Revolution
+2.A Clush of Kings
+3.A Feast of Crows
+4.A Storm of Swords
+5.霍乱时期的爱情
+6.SQl语言艺术
+7.Designing Interactions
+8.曼昆 《经济学原理》
+9.写在人生边上
+10.万物静默如迷
+11.只是孩子
+
+/*
+//some technology to learn
+*/
+1.Machine Learning
+2.Finish the trip of AI
+3.GameAI
+5.  
+
+
+/*
+//Build a Stone body
+*/
+
+
+/*
+//Give myself a new computer , a new mobilephone and the skullcandy
+*/
+
+
+/*
+//Learn an Instrument
+*/
+
+/*
+*/

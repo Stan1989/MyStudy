@@ -1,0 +1,44 @@
+1.use the sf-pad to generate the strategy files
+file scan strategy : 
+  a.file type:video ,audio ,office ,doc etc
+  b.file size;
+  c.time,create time , access time and modification time.Only create time in Linux;
+  d.key word, or and .
+image scan strategy:
+  a.image size : the width and height.
+hash scan strategy:
+  a.MD5 scan.
+
+the conditions in strategy: and
+the conditions between strategies : or
+
+scan option:
+a.the way of file-type judging: suffix and file head; 
+b.out put dir: a.origin ;b. file -class ;c.strategy 
+c. report
+
+config:
+u disk
+linux and windows
+
+2.Mobile quick forensics:
+First check phones which connect to the pad , then choose one which you want collect the inforamtion from that.
+Second choose the path where the report stored and the ios-backup file stored
+last click the start button to begin the forensics work.
+
+
+3.winows live forensics:
+memory image
+scan 
+disk image
+
+first create a case 
+do the memory image work . the memory image file will stored in the case folder.
+smart scan: ie history(index.dat) and ie type history(reg) ,pc name,disk information ,usb history 
+file scan : use the strategies which sf-pad generate.
+
+4.QT
+offline reg:
+ie history 
+file scan 
+which the qt can not read and analysis

@@ -1,0 +1,16 @@
+metadata data about data.
+structural metadata,the design and specification of data structures
+descriptive metadata,individual instances of applicatin data,the data content.
+
+
+defines:
+1.means of creation of the data
+2.purpose of the data
+3.time and data of creation 
+4.creator or author of the data
+5.location on a computer network where the data were created
+6.standard used
+
+
+metadata can be stored in the database.
+exif exchangeable image file format

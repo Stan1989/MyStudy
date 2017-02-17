@@ -1,0 +1,11 @@
+Apache Hadoop:open source software framework.
+There are some modules composed the Hadoop:
+1.Hadoop Common
+2.Hadoop Distribution File System,derived from Google File System
+3.Hadoop YARN
+4.Hadoop MapReduce,derived from Google's MapReduce
+
+Node , datanode, data is stored on three nodes: two on the same rack and one on a different rack.
+data awareness.
+The job tracker schedules map or reduce jobs to task trackers with an awareness of the data location.
+linked project:Apache Pig,Apache Hive,Apache HBases etc

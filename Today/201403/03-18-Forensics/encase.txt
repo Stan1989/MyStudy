@@ -1,0 +1,7 @@
+encase forensics v7.09:
+computers,smartphones,tablets
+enscript , automating common inverstigative tasks.
+
+triage
+
+Search across multiple machines at once

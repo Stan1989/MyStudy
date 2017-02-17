@@ -1,0 +1,12 @@
+1.huge file md5 calculate
+
+2.data gather and data analysis.
+
+Thread1 : data gather, collect the data from the forensics devices .
+
+Data pool
+
+Thread2~N : Get data from data pool.Analysis data and save the forensics result to the server.
+
+
+

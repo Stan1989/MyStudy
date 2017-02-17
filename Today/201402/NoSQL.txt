@@ -1,0 +1,39 @@
+1.NoSQL，非关系型数据库。每一个元组的字段并不一定。
+High Performance
+Huge Storage
+High Scalability && High Availability
+Open Source
+
+OpenSource software:
+1.Membase,Apache2.0
+2.MongoDB,between RelDB and NoSQL.Collection-Oriented. Each collection has its unique name in the 
+database just like table but without schema.
+Save as BSON(extension of json)
+3.Hypertable
+4.Apache Cassandra,facebbook ,Key-Value
+
+
+Wide Column Store/Column Family
+Hadoop/HBase
+Cassandra
+Hypertable
+
+Document Store
+MongoDB
+
+Key Value
+
+
+Five advantages of NoSQL
+1.Elastic scaling
+2.Big data
+3.No need of DBAs
+automatic repair,data distribution and simpler data models .
+4.Economics,NoSQL use clusters of cheap servers to manager ...
+5.Flexible data models.
+Five challenges of NoSQL
+1.Maturity
+2.Support
+3.Analytics and business intelligence
+4.Administration
+5.expertise

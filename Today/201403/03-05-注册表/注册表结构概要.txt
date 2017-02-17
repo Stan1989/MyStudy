@@ -1,0 +1,9 @@
+1.HKEY_CLASSES_ROOT：注册过所有的OLE信息和文档类型，来源于HKEY_LOCAL_MACHINE\SOFTWARE\CLASSES.
+2.HKEY_CURRENT_USER：登陆的用户配置信息，来自HKEY_USERS\当前用户
+3.HKEY_LOCAL_MACHINE:本机的配置信息，
+	Config显示器打印机信息
+	enum即插即用设备信息
+	system设备驱动、服务参数
+	software应用程序专用设置
+4.HKEY_USERS：所有用户的信息
+5.HKEY_CURRENT_CONFIG:包含常被用户改变的部分软硬件配置，fe:字体，显示器、打印机

@@ -1,0 +1,6 @@
+Apache Hive is a data warehouse infrastructure built on top of Hadoop for providing data summarization,
+query,and analysis.
+it provides an SQL-like lanague called HiveQL while maintainning full suport for map/reduce. it provices
+index inlcuding bitmap indexes.
+
+support four file formats:TEXTFILE,SEQUENCEFILE ,ORC and RCFILE
